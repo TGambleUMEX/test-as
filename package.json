@@ -11,6 +11,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "eruda": "^3.2.3",
     "nodemon": "^2.0.19"
   },
   "dependencies": {
